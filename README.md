@@ -270,4 +270,4 @@ left outer join supersalesstore.dw.dim_address as a on (s.sk_address = a.sk_addr
 
 ## Author
 - Tiago Bratz Heck
-##### Access my [LinkedIn](www.linkedin.com/in/tiago-analista-de-dados) profile.
+##### Access my [LinkedIn](https://www.linkedin.com/in/tiago-analista-de-dados/) profile.
