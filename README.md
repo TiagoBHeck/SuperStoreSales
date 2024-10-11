@@ -6,7 +6,7 @@
 
 #### The project basically consists of two stages: The first one is data engineering layer and the second one is data analytics layer. Here I used Databricks to prepare the raw data source (a CSV file) and start normalizing the data. Snowflake is used as the main database responsible for transforming the data after insertion by Databricks. The final result is a data warehouse prepared for creating views that can be used in analytics projects. The image below provides a graphical representation of the steps performed.
 &nbsp;
-![alt text](images/diagram.png "Project diagram")
+![alt text](images/diagram.jpg "Project diagram")
 &nbsp;
 
 ## Data engineering layer
